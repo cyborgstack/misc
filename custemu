@@ -1,0 +1,1 @@
+emulator -kernel ~/opersys-dev/android/kernel/qemu-x/arch/arm/boot/zImage &
